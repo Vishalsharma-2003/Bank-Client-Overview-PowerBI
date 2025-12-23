@@ -1,2 +1,24 @@
-# Bank-Client-Overview-PowerBI
-Power BI dashboard for bank clients analysis
+# 📊 Bank Clients Overview Dashboard (Power BI)
+
+## 📌 About Project
+This project is an interactive Power BI dashboard created to analyze bank clients data and provide business insights.
+
+## 🔍 Key Insights
+- Total number of clients
+- Total bank deposits and loans
+- Client risk weighting analysis
+- Client distribution by age, gender & occupation
+- Clients joined over time
+- Top clients by deposits and loans
+- Nationality-wise client analysis
+
+## 🛠 Tools Used
+- Power BI
+- DAX
+- Data Modeling
+- Interactive Filters & Slicers
+
+## 🎯 Objective
+To help banks understand customer behavior, risk, and financial distribution through visual analytics.
+
+## 📷 Dashboard Preview
